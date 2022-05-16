@@ -1,4 +1,3 @@
-
 CONFIG_PATH := hardware/qcom/media/conf_files/kona
 #Bring all FEATURE FLAG (Compilation) here
 
